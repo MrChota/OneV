@@ -1,0 +1,3 @@
+include ':app', ':tun2socks', ':ganymed-ssh2-build210', ':standoutlib'
+rootProject.name='NapsterNetPro'
+project(':standoutlib').projectDir = new File('standout')

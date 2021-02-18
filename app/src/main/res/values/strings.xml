@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OneV</string>
+    <string name="notification_channel_id">3</string>
+    <string name="config_preference">config_preference</string>
+    <string name="vpn_is_running">vpn_is_running</string>
+    <string name="start">CONNECT</string>
+    <string name="stop">DISCONNECT</string>
+    <string name="local_dns">local_dns</string>
+    <string name="is_enable_proxy_logging">is_enable_proxy_logging</string>
+    <string name="sniffing">sniffing</string>
+    <string name="inbound_tag">inbound_tag</string>
+    <string name="disconnected">DISCONNECTED</string>
+    <string name="connected">CONNECTED</string>
+    <string name="connecting">CONNECTING</string>
+    <string name="network_lost">CHECK YOUR NETWORK CONNECTION</string>
+    <string name="username_preference">username_preference</string>
+    <string name="password_preference">password_preference</string>
+    <string name="authenticating">AUTHENTICATING</string>
+    <string name="per_app_allowed_app_list">Per App Allowed</string>
+    <string name="per_app_mode">Per Mode</string>
+    <string name="is_enable_per_app_vpn">Enabled</string>
+    <string name="per_app_disallowed_app_list">Disallowed</string>
+</resources>
